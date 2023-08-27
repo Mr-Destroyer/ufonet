@@ -6,6 +6,7 @@
 
 ----------
 # Developed By Team Dark Shadow
+# Mr Destroyer X Dark Phatom 
 #### Description:
 
   UFONet - is a free software, P2P and cryptographic -disruptive toolkit- that allows to perform DoS and DDoS attacks; 
